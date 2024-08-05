@@ -11,7 +11,11 @@ https://www.bilibili.com/video/BV17s4y1d7F1/?spm_id_from=333.788&vd_source=536bb
 ​		链接：https://pan.baidu.com/s/1TFLCKuFw42R_HqTBKENPxQ?pwd=85ym 
 ​		提取码：85ym
 
+B站资料：
 
+​		链接：https://www.yuque.com/pulasi-paycj/pvrya2?#
+
+​		密码：xmn3
 
 ## 2. 开发文档
 
