@@ -279,15 +279,11 @@ UserMapper 中的 `selectList()` 方法的参数为 MP 内置的条件封装器 
 
 ![image001](https://github.com/huangpw/springboot-mybatis-plus/blob/master/images/build102/image-20230424183513735.png)
 
-![image001](.\images\build102\image-20230424183513735.png)
-
 ### 2.4 SpringBoot三层架构Controller、Service、Dao
 
 画图讲解
 
 ![image002](https://github.com/huangpw/springboot-mybatis-plus/blob/master/images/build102/image002.png)
-
-![image002](.\images\build102\image002.png)
 
 ### 2.5 SpringBoot编写增删改查接口
 
@@ -1002,6 +998,4 @@ SpringBoot+Vue分离实现数据增删改查
 ## 4.运行截图
 
 ![image003](https://github.com/huangpw/springboot-mybatis-plus/blob/master/images/build102/image003.png)
-
-![image003](.\images\build102\image003.png)
 
